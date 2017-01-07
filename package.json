@@ -11,7 +11,8 @@
     "tap": "^0.7.1"
   },
   "scripts": {
-    "test": "tap test/*.js"
+    "test": "tap test/*.js",
+    "lambci": "npm run"
   },
   "author": "",
   "license": "ISC"
