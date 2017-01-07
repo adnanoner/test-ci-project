@@ -14,6 +14,6 @@
     "test": "tap test/*.js",
     "lambci": "npm run"
   },
-  "author": "",
+  "author": "Adnan Oner",
   "license": "ISC"
 }
